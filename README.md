@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jshinnn
-- 🌱 I’m interested in web development, design thinking, and how we can use technology to cultivate human interactions and connections!
+- 🌱 I’m interested in how we can use code to tell stories and cultivate connections.
 - 📫 Feel free to reach me at jeongshin101 'at' gmail.com!
 
 <!---
